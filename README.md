@@ -4,29 +4,19 @@
 
 <br />
 
-<p align="center"><strong>THE WORK</strong></p>
-<p align="center">
-  I build things that should already exist.<br />
-  No noise. No permission.<br />
-  Just the work.
-</p>
+<h3 align="center">I build things that should already exist.</h3>
+<p align="center">No noise. No permission. Just the work.</p>
 
-<br />
-
-<p align="center">
-  <img src="assets/strip.jpg" alt="A flagship graphics card, hands on a keyboard, a server rack" width="100%" />
-</p>
-
-<br />
+<p align="center">~</p>
 
 <p align="center"><strong>IN THE LAB</strong></p>
 <p align="center">
-  Anotch.<br />
+  <strong>Anotch</strong><br />
   An AI workspace that lives in the MacBook notch.<br />
   Out when it's right. Not before.
 </p>
 
-<br />
+<p align="center">~</p>
 
 <p align="center"><strong>HOUSE RULES</strong></p>
 <p align="center">
@@ -35,7 +25,7 @@
   Ship it. Then sharpen it.
 </p>
 
-<br />
+<p align="center">~</p>
 
 <p align="center"><strong>BACK THE BENCH</strong></p>
 <p align="center">
