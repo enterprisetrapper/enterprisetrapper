@@ -40,7 +40,7 @@
 <p align="center"><strong>BACK THE BENCH</strong></p>
 <p align="center">
   Every coffee funds another late night.<br />
-  <a href="https://buymeacoffee.com/enterprisetrapper">Buy the next one.</a>
+  <a href="https://ko-fi.com/enterprisetrapper">Buy the next one.</a>
 </p>
 
 <br />
