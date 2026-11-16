@@ -22,3 +22,15 @@
   Every coffee funds another late night.<br />
   <a href="https://ko-fi.com/enterprisetrapper">Buy the next one.</a>
 </p>
+
+<br />
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/emblem-dark.png" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/emblem-light.png" />
+    <img src="assets/emblem-dark.png" alt="Enterprise Trapper trap emblem" width="96" />
+  </picture>
+</p>
+
+<p align="center"><sub>ENTERPRISE TRAPPER</sub></p>
