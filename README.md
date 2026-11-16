@@ -9,19 +9,11 @@
 
 <p align="center">~</p>
 
-<p align="center"><strong>IN THE LAB</strong></p>
-<p align="center">
-  <strong>Anotch</strong><br />
-  An AI workspace that lives in the MacBook notch.<br />
-  Out when it's right. Not before.
-</p>
-
-<p align="center">~</p>
-
 <p align="center"><strong>HOUSE RULES</strong></p>
 <p align="center">
   Build what should already exist.<br />
   Sweat the details.<br />
+  No previews. No promises.<br />
   Ship it. Then sharpen it.
 </p>
 
